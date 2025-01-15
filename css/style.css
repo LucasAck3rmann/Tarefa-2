@@ -1,0 +1,76 @@
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.table-container {
+  max-width: 800px;
+  margin: auto;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px 8px 0px 0px;
+  overflow: hidden;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #01987a;
+  color: #fff;
+}
+
+thead th {
+  text-align: left;
+  padding: 12px;
+}
+
+tbody tr {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+tbody tr:nth-child(3) {
+  background-color: #fff;
+  border-bottom: 3px solid #01987a;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+
+tbody tr:hover {
+  background-color: #cfe9d6;
+}
+
+tbody td {
+  padding: 12px;
+  color: #312926;
+}
+
+tbody tr:nth-child(2) {
+  font-weight: bold;
+  color: #01987a;
+}
+
+tbody tr:nth-child(2) td {
+  color: #01987a;
+}
+.team-name {
+  font-weight: normal;
+  color: #312926;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: #312926;
+  padding: 1rem;
+}
+
+a {
+  color: rgb(0, 0, 0);
+}
