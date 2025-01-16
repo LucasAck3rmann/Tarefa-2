@@ -1,4 +1,4 @@
-# Exercício de Tabela Estilizada
+# Tarefa 2
 
 Este repositório contém uma tarefa prática desenvolvida durante o módulo básico de Front-End no curso 3035Teach. O objetivo é consolidar os conhecimentos adquiridos sobre HTML, CSS e JavaScript.
 
